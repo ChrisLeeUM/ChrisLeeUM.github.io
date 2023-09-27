@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is Chris, a Master Student ay UM"
+title: "This is Chris, a postgraduate student at UM"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
