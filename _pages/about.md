@@ -14,9 +14,7 @@ He Li received his BEng degree from the Southeast University in 2020. Also, he h
 
 ## <font color=Red>News:</font> ##
 
-|  Date   |  News |
-|  :----:  | :----  |
-| 2024-01 | One paper got accepted by RA-L. |
+- 2024-01 &emsp; One paper got accepted by RA-L!
 
 ## <font color=CornflowerBlue>Awards:</font> ##
 
