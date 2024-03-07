@@ -26,6 +26,6 @@ He Li received his BEng degree from the Southeast University in 2020. Also, he h
 
 ## <font color=CornflowerBlue>Publications:</font> ##
 
-***He Li***, Ruihua Han, Zirui Zhao, Wei Xu, Qi Hao, Shuai Wang, Chengzhong Xu. “Seamless Virtual Reality with Integrated Synchronizer and Synthesizer for Autonomous Driving,”  IEEE Robotics and Automation Letters, Feb. 2024.
+***He Li***, Ruihua Han, Zirui Zhao, Wei Xu, Qi Hao, Shuai Wang, Chengzhong Xu. “Seamless Virtual Reality with Integrated Synchronizer and Synthesizer for Autonomous Driving,”  IEEE Robotics and Automation Letters, Feb. 2024. [[paper](https://arxiv.org/abs/2403.03541)] [[video](https://youtu.be/HTD3G7W_fto?si=m66kOv2sDVSWkA1N)]
 
-Lexiong Huang, Ruihua Han, Guoliang Li, ***He Li***, Shuai Wang, Yang Wang, and Chengzhong Xu. “iCOIL: Scenario Aware Autonomous Parking Via Integrated Constrained Optimization and Imitation Learning,” in IEEE ICDCS Workshops, HK, 2023.
+Lexiong Huang, Ruihua Han, Guoliang Li, ***He Li***, Shuai Wang, Yang Wang, and Chengzhong Xu. “iCOIL: Scenario Aware Autonomous Parking Via Integrated Constrained Optimization and Imitation Learning,” in IEEE ICDCS Workshops, HK, 2023. [[paper](https://arxiv.org/abs/2305.13663)]
