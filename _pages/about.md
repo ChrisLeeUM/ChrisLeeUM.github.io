@@ -8,15 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-He Li is currently a Ph.D. student at SKL-IOTSC at University of Macau. His research interests lie in autonomous driving and virtual reality. He is co-supervised by [Prof. Chengzhong Xu (FIEEE)](https://www.fst.um.edu.mo/personal/czxu/) and [Prof. Shuai Wang](https://bearswang.github.io/).
+He Li is currently a Ph.D. student in Computer Science at University of Macau. His research interests lie in autonomous driving and virtual reality. He is co-supervised by [Prof. Chengzhong Xu (FIEEE)](https://www.fst.um.edu.mo/personal/czxu/) and [Prof. Shuai Wang](https://bearswang.github.io/).
 
-He Li received his BEng degree from the Southeast University in 2020. Also, he holds the qualification of embedded system development engineer. Before joining UM, he works as a software engineer at Vivo and Nokia, successively.
+He Li received his BEng degree in Electronic Science & Technology from the Southeast University in 2020, and the MSc degree in Computer Science from the University of Macau in 2024. Also, he holds the qualification of embedded system development engineer. Before joining UM, he works as a software engineer at Vivo and Nokia, successively.
 
 ## <font color=Red>News:</font> ##
+
+- 2024-05 &emsp; He Li was awarded the FST Best MSc Student Award (top 5%).
 
 - 2024-01 &emsp; One paper got accepted by RA-L!
 
 ## <font color=CornflowerBlue>Awards:</font> ##
+
+- Best MSc Student Award (top 5%), UM Faculty of Science and Technology, 2024
 
 - Best Student Paper Award, IEEE ICDCS Workshop, 2023
 
