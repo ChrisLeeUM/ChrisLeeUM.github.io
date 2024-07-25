@@ -13,6 +13,7 @@ He Li is currently a Ph.D. student in Computer Science at University of Macau. H
 He Li received his BEng degree in Electronic Science & Technology from the Southeast University in 2020, and the MSc degree in Computer Science from the University of Macau in 2024. Also, he holds the qualification of embedded system development engineer. Before joining UM, he works as a software engineer at Vivo and Nokia, successively.
 
 ## <font color=Red>News:</font> ##
+- 2024-06 &emsp; One paper got accepted by IROS 2024!
 
 - 2024-05 &emsp; He Li was awarded the FST Best MSc Student Award (top 5%).
 
@@ -31,5 +32,7 @@ He Li received his BEng degree in Electronic Science & Technology from the South
 ## <font color=CornflowerBlue>Publications:</font> ##
 
 ***He Li***, Ruihua Han, Zirui Zhao, Wei Xu, Qi Hao, Shuai Wang, Chengzhong Xu. “Seamless Virtual Reality with Integrated Synchronizer and Synthesizer for Autonomous Driving,”  IEEE Robotics and Automation Letters, Feb. 2024. [[paper](https://arxiv.org/abs/2403.03541)] [[video](https://youtu.be/HTD3G7W_fto?si=m66kOv2sDVSWkA1N)]
+
+Shiyao Zhang*, ***He Li****, Shengyu Zhang, Shuai Wang*, Derrick Wing Kwan Ng, Chengzhong Xu. "Multi-Uncertainty Aware Autonomous Cooperative Planning." In 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
 
 Lexiong Huang, Ruihua Han, Guoliang Li, ***He Li***, Shuai Wang, Yang Wang, and Chengzhong Xu. “iCOIL: Scenario Aware Autonomous Parking Via Integrated Constrained Optimization and Imitation Learning,” in IEEE ICDCS Workshops, HK, 2023. [[paper](https://arxiv.org/abs/2305.13663)]
