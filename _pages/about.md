@@ -15,7 +15,7 @@ He Li received his BEng degree in Electronic Science & Technology from the South
 ## <font color=Red>News:</font> ##
 - 2024-06 &emsp; One paper got accepted by IROS 2024!
 
-- 2024-05 &emsp; He Li was awarded the FST Best MSc Student Award (top 5%).
+- 2024-05 &emsp; He Li was awarded the FST Best MSc Student Award (top 5%). [[news](https://www.fst.um.edu.mo/news/stepping-out-of-the-comfort-zone-lis-journey-of-pursuing-his-dream-in-artificial-intelligence/)]
 
 - 2024-01 &emsp; One paper got accepted by RA-L!
 
