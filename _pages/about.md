@@ -21,6 +21,8 @@ He Li received his BEng degree in Electronic Science & Technology from the South
 
 ## <font color=CornflowerBlue>Awards:</font> ##
 
+- Award of Poster Presentation (top 3), Macao Symposium on Cloud Computing and Intelligent Driving (CCID), 2024
+
 - Best MSc Student Award (top 5%), UM Faculty of Science and Technology, 2024
 
 - Best Student Paper Award, IEEE ICDCS Workshop, 2023
